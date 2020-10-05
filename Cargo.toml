@@ -8,3 +8,6 @@ edition = "2018"
 clap = "2.33.*"
 measurements = "0.10.3"
 regex = "1"
+
+[dev-dependencies]
+average = "0.10"
